@@ -1,0 +1,8 @@
+C:\Users\santy\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe.config
+C:\Users\santy\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe
+C:\Users\santy\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.pdb
+C:\Users\santy\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\santy\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.exe
+C:\Users\santy\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.pdb
